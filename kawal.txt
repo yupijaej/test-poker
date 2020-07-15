@@ -7,3 +7,5 @@ Paris
 Warsaw
 Madrit
 Rome
+
+git status
